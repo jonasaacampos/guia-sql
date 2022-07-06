@@ -8,7 +8,7 @@
 
 <h1>SQL - um guia para autoditadas</h1>
 
-Notas, projetos e insights gerados ao longo dos meus estudos de SQL, com o objetivo de documentar o aprendizado para futuras consultas e auxiliar interessados e estudantes da área. Além de exercícios com questões reais de negócios, você pode usar os códigos disponibilizados para espadir seus horizontes sobre banco de dados.
+Notas, projetos e insights gerados ao longo dos meus estudos de SQL, com o objetivo de documentar o aprendizado para futuras consultas e auxiliar interessados e estudantes da área. Além de exercícios com questões reais de negócios, você pode usar os códigos disponibilizados para expadir seus horizontes sobre banco de dados.
 
 Divirta-se!
 
