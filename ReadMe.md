@@ -107,8 +107,6 @@ Em uma empresa, os dados cumprem um papel tão importante quanto qualquer outro 
 
 ### **Banco de Dados**
 
-<img  src="https://cdn-icons.flaticon.com/png/512/3305/premium/3305676.png?token=exp=1649793870~hmac=7cb3236b17eab458c88fcfca89dc536f"  width=80 align=right>
-
 Bancos de dados são conjuntos de tabelas, com alguma relação entre si, com dados sobre pessoas, lugares ou coisas.
 
 Dados isolados possuem valor. Dados organizados e agrupados possuem mais valor ainda.
